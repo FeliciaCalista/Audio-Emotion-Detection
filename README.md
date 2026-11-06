@@ -1,8 +1,6 @@
 # Audio Emotion Detection
 
-This project aims to detect human **emotions** through voice using data from RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song).
-This model is expected to be able to classify emotions such as anger, happiness, neutrality, fear, and others from audio input (.wav).
-
+Developed a speech emotion recognition model using the RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song) dataset. The project focuses on analyzing speech signals from .wav audio recordings, extracting acoustic features, and applying machine learning or deep learning techniques to identify emotional patterns. The model aims to classify multiple emotional states, including happiness, sadness, anger, fear, neutrality, and other categories, based on characteristics of the input speech signals.
 ---
 
 ## About Dataset
